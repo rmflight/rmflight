@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 <!--
 **rmflight/rmflight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a bioinformatics analyst with [Hunter Moseley](https://bioinformatics.cesb.uky.edu/) at University of Kentucky's Markey Cancer Center. I spend most of my time both analyzing various -omics datasets (transcriptomics, metabolomics, etc) and developing new tools and methods for analyzing these kinds of data. This means I'm heavily dependent on others sharing their data, and proudly consider myself a [research parasite](https://en.wikipedia.org/wiki/Research_Parasite_Award).
+
+I really, really enjoy programming in R, although I also dabble occasionally in Python. I occasionally write about my research, personal projects, and my thoughts on science on [my blog](https://rmflight.github.io).
+
+- 💬 Ask me about quality control and quality assurance of high-feature -omics datasets, writing R packages, and using {targets} for data analyses.
+- 🛠️ I maintain a [few packages](https://moseleybioinformaticslab.r-universe.dev/builds) related to -omics data analysis.
