@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a bioinformatics analyst with [Hunter Moseley](https://bioinformatics.cesb.uky.edu/) at University of Kentucky's Markey Cancer Center. I spend most of my time both analyzing various -omics datasets (transcriptomics, metabolomics, etc) and developing new tools and methods for analyzing these kinds of data. This means I'm heavily dependent on others sharing their data, and proudly consider myself a [research parasite](https://en.wikipedia.org/wiki/Research_Parasite_Award).
+I'm a bioinformatics analyst in the [Moseley Bioinformatics and Systems Biology Lab](https://moseleybioinformaticslab.org/) at the University of Kentucky's Markey Cancer Center. I spend most of my time both analyzing various -omics datasets (transcriptomics, metabolomics, etc) and developing new tools and methods for analyzing these kinds of data. This means I'm heavily dependent on others sharing their data, and proudly consider myself a [research parasite](https://en.wikipedia.org/wiki/Research_Parasite_Award).
 
 I really, really enjoy programming in R, although I also dabble occasionally in Python. I occasionally write about my research, personal projects, and my thoughts on science on [my blog](https://rmflight.github.io).
 
